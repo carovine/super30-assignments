@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: "consolas";
+  background-color: #f0f0f0;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+th, td{
+  padding: 10px;
+  text-align: center;
+  border-bottom: 0.1rem solid #ddd;
+  border-right: 0.1rem solid #ddd;
+}
+tr:nth-child(1) {background-color: #b6bacd;}

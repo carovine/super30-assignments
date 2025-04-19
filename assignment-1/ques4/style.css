@@ -1,0 +1,20 @@
+body{
+  align-items: center;
+  background-color: #000000;
+  margin: 0%;
+}
+.box{
+  text-align: center;
+  color: #000000;
+  background-color: #40e0e0;
+  font-size: 40px;
+  /* div of class box has a margin of 5rem and padding of 5rem */
+  margin: 5rem;
+  padding: 5rem;
+  border: #a25322 solid 5px;
+}
+h1{
+  background-color: #a25322;
+  /* text h1 has a padding 3rem */
+  padding: 3rem;
+}
